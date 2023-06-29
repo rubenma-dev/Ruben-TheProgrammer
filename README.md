@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, I'm [Ruben Maidana Amarilla!](https://www.linkedin.com/in/Ruben Maidana Amarilla/), Full Stack Developer graduated in 
+Hi, I'm [Ruben Maidana Amarilla!](https://www.linkedin.com/in/rub%C3%A9n-maidana-amarilla-989063212/), Full Stack Developer graduated in 
 Computer engineer and Software Engineering in Paraguayan [PY]
 
 <p align="center">
@@ -46,10 +46,10 @@ Computer engineer and Software Engineering in Paraguayan [PY]
 ## Social Networks
 
 <p align="left">
-<a href="https://www.linkedin.com/in/felipes/Ruben Maidana Amarilla/">
+<a href="https://www.linkedin.com/in/rub%C3%A9n-maidana-amarilla-989063212/">
   <img alt="Ruben Maidana Amarilla - Linkedin" width="40" height="40" src="./icons/linkedin.svg" />
-</a> <a href="https://www.facebook.com/feeh.fat">
-  <img alt="Ruben Maidana Amarilla- Facebook" width="40" height="40" src="./icons/facebook.svg" />
+</a> <a href="https://www.facebook.com/profile.php?id=100073155791764">
+  <img alt="Ruben Maidana Amarilla - Facebook" width="40" height="40" src="./icons/facebook.svg" />
 </a>
 </p>
 
