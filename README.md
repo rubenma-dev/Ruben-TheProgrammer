@@ -14,7 +14,7 @@ Computer engineer and Software Engineering in Paraguayan [PY]
 
 - I'm currently working on Java SpringBoot & Angular.
 - 📫 How to reach me: maxpayne.rm@gmail.com
-
+- rubencce@hotmail.com
 <br />
 
 ## Skills
