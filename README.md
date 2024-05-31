@@ -48,7 +48,7 @@ Computer engineer and Software Engineering in Paraguayan [PY]
 <p align="left">
 <a href="https://www.linkedin.com/in/rub%C3%A9n-maidana-amarilla-989063212/">
   <img alt="Ruben Maidana Amarilla - Linkedin" width="40" height="40" src="./icons/linkedin.svg" />
-</a> <a href="https://www.facebook.com/profile.php?id=100073155791764">
+</a> <a href="https://www.facebook.com/Rubenmadev">
   <img alt="Ruben Maidana Amarilla - Facebook" width="40" height="40" src="./icons/facebook.svg" />
 </a>
 </p>
